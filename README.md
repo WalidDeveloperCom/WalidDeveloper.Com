@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [waliddeveloper.com/blog](waliddeveloper.com/blog)
 
-- 💬 Ask me about **Full Stack Development with Python, Django & React**
+- 💬 Ask me about **Full Stack Developer with Python, Django & React**
 
 - 📫 How to reach me **hi@waliddeveloper.com**
 
