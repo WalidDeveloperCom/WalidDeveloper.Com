@@ -2,7 +2,7 @@
 ![Full-Stack Developer   Ethical Hacker](https://github.com/user-attachments/assets/68c96a00-8be6-4acc-9978-31fc8d225c06)
 
 ### Hi there 👋
-**Walid-Developer/Walid-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WalidDeveloper.Com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
